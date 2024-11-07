@@ -1,4 +1,4 @@
-﻿using System;
+//﻿using System;
 //задание 1
 // namespace practica
 // {
